@@ -13,7 +13,7 @@
 ## Introduction
 This is application, which i made for my Engineer Thesis purpose. The application allows user to create a bicycle event, along with specifying data such as: name of the event, description, starting place, planned destination (with visualization on the map), event type, recommended bike type and pace. Other users can take part in the created event and communicate with each other by means of comments. The application has a system for searching and filtering trips, based on, among others distance to the starting point, distance, difficulty level, as well as the user reputation system. Each of them has their own profile that can be personalized.
 The application was developed in the Android Studio environment, using the Java language. The Firebase platform was used to store and process data about events and users.
-<h1><b>Due to law regulations, which gives my University right to my source code within certain amount of time, i cannot share source of this application till 2022 </h1><br> Source code is commited to other, private repository, which will be public since 2022 </b>
+<h1><b>Due to the rule of law, that gives my University rights to my source code within certain amount of time, I am not able to share source of this application till 2022 </h1><br> Source code is commited to other, private repository, which will be publicly accesible from 2022 </b>
 
 ## Features
 * Create an Bicycle Event, with specified features like bicycle type, speed, description
